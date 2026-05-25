@@ -12,7 +12,7 @@ It demonstrates a production-ready RAG system for privacy policy analysis.
 *Note*: The app is deployed on Streamlit Cloud and may take a few seconds to load. If it does not load or the app is paused, please run it locally using `streamlit run app.py`.
 
 ## Project Overview
-This project is an implementation of **Option 2: Deploy Existing Model (RAG)**. It designed to make privacy policies and Terms of Service (ToS) transparent and easy to understand. It uses **Retrieval Augmented Generation (RAG)** to ground its answers in real legal documents, reducing hallucinations and providing accurate citations.
+This project is an implementation of **Deploy Existing Model (RAG)**. It designed to make privacy policies and Terms of Service (ToS) transparent and easy to understand. It uses **Retrieval Augmented Generation (RAG)** to ground its answers in real legal documents, reducing hallucinations and providing accurate citations.
 
 ### How It Works
 1.  **Knowledge Base**: We aggregated a dataset of privacy policies (OPP-115 + others) and chunked them into small text segments.
