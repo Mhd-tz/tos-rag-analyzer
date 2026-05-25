@@ -1,4 +1,4 @@
-# ToS RAG Analyzer (Group 34)
+# ToS RAG Analyzer
 
 **IAT 360 - Designing the Digital Future**  
 *Simon Fraser University*
